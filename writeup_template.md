@@ -61,9 +61,10 @@ The method to apply gradient thresholds is at `Cell 09`.
 I have used **x gradient** with a range of **25 - 255** and a **direction** threshold with a range between **45° - 80°**.
 Below is an example of an image with the gradient thresholds applied.
 ![Gradient Comparison](markdown_images/03_gradient_comparison.JPG)
+
 ---
 
-The method to apply a region mask is at ![Cell 07](P4.ipynb#3.-Region-of-Interest).
+The method to apply a region mask is at [Cell 07](P4.ipynb#3.-Region-of-Interest).
 The below example clearly marks the masked region and also shows a binary image on which the mask is applied. 
 ![ROI](markdown_images/04_roi.png)
 
